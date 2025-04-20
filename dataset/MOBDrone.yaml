@@ -1,0 +1,19 @@
+#path:  /data/wyh/yolov9/MOBDronezd # dataset root dir
+#train: /data/wyh/yolov9/MOBDronezd/images/train  # train images (relative to 'path') 118287 images
+#val: /data/wyh/yolov9/MOBDronezd/images/val  # val images (relative to 'path') 5000 images
+#test:  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+path:  E:\objectdetectiondatasets\MOBDrone-ziped2 # dataset root dir
+train: E:\objectdetectiondatasets\MOBDrone-ziped2\images\train  # train images (relative to 'path') 118287 images
+val: E:\objectdetectiondatasets\MOBDrone-ziped2\images\val  # val images (relative to 'path') 5000 images
+test:  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+names:
+  0: person
+  1: boat
+  2: surfboard
+  3: wood
+  4: life_buoy
+
+
+

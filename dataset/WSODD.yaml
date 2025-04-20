@@ -1,0 +1,22 @@
+path:  E:\objectdetection\yolov9\WSODD # dataset root dir
+train: E:\objectdetection\yolov9\WSODD\images\train  # train images (relative to 'path') 118287 images
+val: E:\objectdetection\yolov9\WSODD\images\val  # val images (relative to 'path') 5000 images
+test:  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+names:
+  0: bridge
+  1: ship
+  2: boat
+  3: ball
+  4: rubbish
+  5: rock
+  6: buoy
+  7: platform
+  8: harbor
+  9: mast
+  10: tree
+  11: animal
+  12: grass
+  13: person
+
