@@ -1,2 +1,2 @@
-# OceanNet
-A Transformer-based maritime target detection method - OceanNet
+# mLSK-DETR
+A Transformer-based maritime target detection method - mLSK-DETR
